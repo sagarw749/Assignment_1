@@ -11,5 +11,5 @@ var component2 = <img src="images/me.jpg" alt="Sagar"/>;
 ReactDOM.render(component2, imageNode);
 
 var linkNode = document.getElementById('url');
-var component3 = <a href="https://github.com/sagarw749/fullStack">Visit My GITHUB Repository</a>;
+var component3 = <a href="https://github.com/sagarw749/Assignment_1">Visit My GITHUB Repository</a>;
 ReactDOM.render(component3, linkNode);
